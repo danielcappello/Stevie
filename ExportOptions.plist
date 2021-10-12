@@ -6,6 +6,15 @@
 	<true/>
 	<key>destination</key>
 	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://danielcappello.github.io/Stevie/Stevie.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://danielcappello.github.io/Stevie/EEFM_Filled1-40.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://danielcappello.github.io/Stevie/EEFM_Filled1-1024.png</string>
+	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>

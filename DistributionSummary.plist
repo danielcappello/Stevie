@@ -38,7 +38,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>fedd9576-366d-40f9-b09d-d0c2fca19365</string>
+				<string>7b120364-4613-48e3-a816-07a73a9fb9f0</string>
 				<key>dateExpires</key>
 				<string>4/3/22</string>
 				<key>name</key>
@@ -52,7 +52,7 @@
 				<string>Daniel Cappello</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0</string>
+			<string>1.1</string>
 		</dict>
 	</array>
 </dict>
