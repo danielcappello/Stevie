@@ -20,7 +20,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.dc.Stevie</key>
-		<string>Stevie Provisioning Profile</string>
+		<string>Stevie Provisioning Profile 2023</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
