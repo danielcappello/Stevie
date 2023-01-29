@@ -14,9 +14,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>99F5BEA729BEE32156EAF881DD320FF3CD396410</string>
+				<string>E375EE589629F3261AC92D26901DE004DAA4A2AA</string>
 				<key>dateExpires</key>
-				<string>9/2/2023</string>
+				<string>23/1/2024</string>
 				<key>type</key>
 				<string>Apple Distribution</string>
 			</dict>
@@ -28,21 +28,17 @@
 				<string>ABQYBUVRDT</string>
 				<key>get-task-allow</key>
 				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>ABQYBUVRDT.com.dc.Stevie</string>
-				</array>
 			</dict>
 			<key>name</key>
 			<string>Stevie.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>3ae0054c-b5c0-4c40-80e8-abc954e9d866</string>
+				<string>09654808-f9ba-4b6c-acc9-09eacc7e54c7</string>
 				<key>dateExpires</key>
-				<string>9/2/2023</string>
+				<string>23/1/2024</string>
 				<key>name</key>
-				<string>Stevie Provisioning Profile 2023</string>
+				<string>Stevie Provisioning Profile 2024</string>
 			</dict>
 			<key>team</key>
 			<dict>
@@ -52,7 +48,7 @@
 				<string>Daniel Cappello</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.4</string>
+			<string>1.5</string>
 		</dict>
 	</array>
 </dict>
