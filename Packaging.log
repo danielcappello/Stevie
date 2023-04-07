@@ -1,204 +1,204 @@
-2023-03-17 22:48:23 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x1410de7f0; archive(resolved)="<IDEArchive: 0x600013d97180>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+2023-04-07 08:09:04 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x325fc1a90; archive(resolved)="<IDEArchive: 0x600141e08120>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
 	Chain (14, self inclusive):
-	<IDEDistributionProcessingPipelineContext: 0x1410de7f0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionProcessingPipelineContext: 0x14106a860; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x157e240d0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x13222b390; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x13222a120; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x127e1cae0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x13220b400; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x13220b200; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x132233ec0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000777a80; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x13200ffa0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="(null)">
-	<IDEDistributionContext: 0x132027440; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="(null)">
-	<IDEDistributionContext: 0x132027eb0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="(null)">
-	<IDEDistributionContext: 0x2cc1f6ee0; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60005db71310>", team="(null)">
-	<IDEDistributionContext: 0x132233800; archive = "<IDEArchive: 0x600013d97180>", distributionMethod="(null)", team="(null)">
-</IDEDistributionProcessingPipelineContext: 0x1410de7f0>
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCreateDestRootStep
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCopyItemStep
-2023-03-17 22:48:23 +0000  Running /usr/bin/ditto '-V' '/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app'
-2023-03-17 22:48:23 +0000  >>> Copying /Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app 
-2023-03-17 22:48:23 +0000  copying file ./_CodeSignature/CodeResources ... 
-2023-03-17 22:48:23 +0000  9301 bytes for ./_CodeSignature/CodeResources
-2023-03-17 22:48:23 +0000  copying file ./Stevie ... 
-2023-03-17 22:48:23 +0000  1511584 bytes for ./Stevie
-2023-03-17 22:48:23 +0000  copying file ./AppIcon60x60@2x.png ... 
-2023-03-17 22:48:23 +0000  15756 bytes for ./AppIcon60x60@2x.png
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  1598 bytes for ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  1598 bytes for ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  3450 bytes for ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  3450 bytes for ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  975 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  975 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  6119 bytes for ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  6119 bytes for ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  1201 bytes for ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  1201 bytes for ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  8220 bytes for ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  8220 bytes for ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  1087 bytes for ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  1087 bytes for ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  25800 bytes for ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  25722 bytes for ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
-2023-03-17 22:48:23 +0000  475 bytes for ./Base.lproj/Main.storyboardc/Info.plist
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
-2023-03-17 22:48:23 +0000  1941 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
-2023-03-17 22:48:23 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
-2023-03-17 22:48:23 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
-2023-03-17 22:48:23 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
-2023-03-17 22:48:23 +0000  copying file ./Assets.car ... 
-2023-03-17 22:48:23 +0000  831823 bytes for ./Assets.car
-2023-03-17 22:48:23 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
-2023-03-17 22:48:23 +0000  22344 bytes for ./AppIcon76x76@2x~ipad.png
-2023-03-17 22:48:23 +0000  copying file ./embedded.mobileprovision ... 
-2023-03-17 22:48:23 +0000  12317 bytes for ./embedded.mobileprovision
-2023-03-17 22:48:23 +0000  copying file ./Info.plist ... 
-2023-03-17 22:48:23 +0000  1632 bytes for ./Info.plist
-2023-03-17 22:48:23 +0000  copying file ./PkgInfo ... 
-2023-03-17 22:48:23 +0000  8 bytes for ./PkgInfo
-2023-03-17 22:48:23 +0000  /usr/bin/ditto exited with 0
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionEmbedProfileStep
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionInfoPlistStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionAppThinningPlistStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCompileBitcodeStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCodeSlimmingStep
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionSymbolsStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionAppThinningStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionArchThinningStep
-2023-03-17 22:48:23 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app/Stevie' '-verify_arch' 'arm64e'
-2023-03-17 22:48:23 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2023-03-17 22:48:23 +0000  Skipping architecture thinning for item "Stevie" because arch "arm64e" wasn't found
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionODRStep
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionStripXattrsStep
-2023-03-17 22:48:23 +0000  Running /usr/bin/xattr '-crs' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app'
-2023-03-17 22:48:23 +0000  /usr/bin/xattr exited with 0
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCodesignStep
-2023-03-17 22:48:23 +0000  Entitlements for <IDEDistributionItem: 0x600013dadbc0; bundleID='com.dc.Stevie', path='<DVTFilePath:0x60000b164c40:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000978cd9f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002d40bb0; name='Apple Distribution: Daniel Cappello (ABQYBUVRDT)', hash='E375EE589629F3261AC92D26901DE004DAA4A2AA', serialNumber='1073FFD46B39FA9EB0710B8EB5CA4674', certificateKinds='(
+	<IDEDistributionProcessingPipelineContext: 0x325fc1a90; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x3246d6830; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x113dd7900; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1138b9c90; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1138cb610; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x113df7af0; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10cf64930; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10cf64730; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x32fd34690; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000025f8440; teamID='ABQYBUVRDT', teamName='Daniel Cappello', teamType='Individual', username='dan.cap@hotmail.co.uk', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x32fd53a70; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="(null)">
+	<IDEDistributionContext: 0x113898430; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="(null)">
+	<IDEDistributionContext: 0x113898230; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="(null)">
+	<IDEDistributionContext: 0x325fe4a90; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000f915750>", team="(null)">
+	<IDEDistributionContext: 0x10cf8f4e0; archive = "<IDEArchive: 0x600141e08120>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x325fc1a90>
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCopyItemStep
+2023-04-07 08:09:04 +0000  Running /usr/bin/ditto '-V' '/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app'
+2023-04-07 08:09:04 +0000  >>> Copying /Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app 
+2023-04-07 08:09:04 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-04-07 08:09:04 +0000  9301 bytes for ./_CodeSignature/CodeResources
+2023-04-07 08:09:04 +0000  copying file ./Stevie ... 
+2023-04-07 08:09:04 +0000  1511584 bytes for ./Stevie
+2023-04-07 08:09:04 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-04-07 08:09:04 +0000  15756 bytes for ./AppIcon60x60@2x.png
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  1598 bytes for ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  1598 bytes for ./Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  3450 bytes for ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  3450 bytes for ./Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  975 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  975 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  6119 bytes for ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  6119 bytes for ./Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  1201 bytes for ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  1201 bytes for ./Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  8220 bytes for ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  8220 bytes for ./Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  1087 bytes for ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  1087 bytes for ./Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  25800 bytes for ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  25722 bytes for ./Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-04-07 08:09:04 +0000  475 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-04-07 08:09:04 +0000  1941 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-04-07 08:09:04 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-04-07 08:09:04 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-04-07 08:09:04 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-04-07 08:09:04 +0000  copying file ./Assets.car ... 
+2023-04-07 08:09:04 +0000  831823 bytes for ./Assets.car
+2023-04-07 08:09:04 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2023-04-07 08:09:04 +0000  22344 bytes for ./AppIcon76x76@2x~ipad.png
+2023-04-07 08:09:04 +0000  copying file ./embedded.mobileprovision ... 
+2023-04-07 08:09:04 +0000  12317 bytes for ./embedded.mobileprovision
+2023-04-07 08:09:04 +0000  copying file ./Info.plist ... 
+2023-04-07 08:09:04 +0000  1632 bytes for ./Info.plist
+2023-04-07 08:09:04 +0000  copying file ./PkgInfo ... 
+2023-04-07 08:09:04 +0000  8 bytes for ./PkgInfo
+2023-04-07 08:09:04 +0000  /usr/bin/ditto exited with 0
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionSymbolsStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionAppThinningStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionArchThinningStep
+2023-04-07 08:09:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app/Stevie' '-verify_arch' 'arm64e'
+2023-04-07 08:09:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-04-07 08:09:04 +0000  Skipping architecture thinning for item "Stevie" because arch "arm64e" wasn't found
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionODRStep
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-04-07 08:09:04 +0000  Running /usr/bin/xattr '-crs' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app'
+2023-04-07 08:09:04 +0000  /usr/bin/xattr exited with 0
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCodesignStep
+2023-04-07 08:09:04 +0000  Entitlements for <IDEDistributionItem: 0x600141fd2340; bundleID='com.dc.Stevie', path='<DVTFilePath:0x60000d234c40:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000dbb2ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008c56310; name='Apple Distribution: Daniel Cappello (ABQYBUVRDT)', hash='E375EE589629F3261AC92D26901DE004DAA4A2AA', serialNumber='1073FFD46B39FA9EB0710B8EB5CA4674', certificateKinds='(
     "1.2.840.113635.100.6.1.7",
     "1.2.840.113635.100.6.1.4"
 ), issueDate='2023-01-23 09:54:54 +0000''>', entitlements='{
     "application-identifier" = "ABQYBUVRDT.com.dc.Stevie";
     "com.apple.developer.team-identifier" = ABQYBUVRDT;
     "get-task-allow" = 0;
-}', teamID='ABQYBUVRDT', identifier='com.dc.Stevie', executablePath='<DVTFilePath:0x600013dae2e0:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app/Stevie'>', hardenedRuntime='0'>'>: {
+}', teamID='ABQYBUVRDT', identifier='com.dc.Stevie', executablePath='<DVTFilePath:0x600141fd1fe0:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app/Stevie'>', hardenedRuntime='0'>'>: {
     "application-identifier" = "ABQYBUVRDT.com.dc.Stevie";
     "com.apple.developer.team-identifier" = ABQYBUVRDT;
     "get-task-allow" = 0;
 }
-2023-03-17 22:48:23 +0000  Entitlements for <IDEDistributionItem: 0x600013dadbc0; bundleID='com.dc.Stevie', path='<DVTFilePath:0x60000b164c40:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000978cd9f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002d40e70; name='Apple Distribution: Daniel Cappello (ABQYBUVRDT)', hash='E375EE589629F3261AC92D26901DE004DAA4A2AA', serialNumber='1073FFD46B39FA9EB0710B8EB5CA4674', certificateKinds='(
+2023-04-07 08:09:04 +0000  Entitlements for <IDEDistributionItem: 0x600141fd2340; bundleID='com.dc.Stevie', path='<DVTFilePath:0x60000d234c40:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000dbb2ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008c56c00; name='Apple Distribution: Daniel Cappello (ABQYBUVRDT)', hash='E375EE589629F3261AC92D26901DE004DAA4A2AA', serialNumber='1073FFD46B39FA9EB0710B8EB5CA4674', certificateKinds='(
     "1.2.840.113635.100.6.1.7",
     "1.2.840.113635.100.6.1.4"
 ), issueDate='2023-01-23 09:54:54 +0000''>', entitlements='{
     "application-identifier" = "ABQYBUVRDT.com.dc.Stevie";
     "com.apple.developer.team-identifier" = ABQYBUVRDT;
     "get-task-allow" = 0;
-}', teamID='ABQYBUVRDT', identifier='com.dc.Stevie', executablePath='<DVTFilePath:0x600013dae2e0:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app/Stevie'>', hardenedRuntime='0'>'> are: {
+}', teamID='ABQYBUVRDT', identifier='com.dc.Stevie', executablePath='<DVTFilePath:0x600141fd1fe0:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app/Stevie'>', hardenedRuntime='0'>'> are: {
     "application-identifier" = "ABQYBUVRDT.com.dc.Stevie";
     "com.apple.developer.team-identifier" = ABQYBUVRDT;
     "get-task-allow" = 0;
 }
-2023-03-17 22:48:23 +0000  Writing entitlements for <IDEDistributionItem: 0x600013dadbc0; bundleID='com.dc.Stevie', path='<DVTFilePath:0x60000b164c40:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000978cd9f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002d40fd0; name='Apple Distribution: Daniel Cappello (ABQYBUVRDT)', hash='E375EE589629F3261AC92D26901DE004DAA4A2AA', serialNumber='1073FFD46B39FA9EB0710B8EB5CA4674', certificateKinds='(
+2023-04-07 08:09:04 +0000  Writing entitlements for <IDEDistributionItem: 0x600141fd2340; bundleID='com.dc.Stevie', path='<DVTFilePath:0x60000d234c40:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000dbb2ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008c71550; name='Apple Distribution: Daniel Cappello (ABQYBUVRDT)', hash='E375EE589629F3261AC92D26901DE004DAA4A2AA', serialNumber='1073FFD46B39FA9EB0710B8EB5CA4674', certificateKinds='(
     "1.2.840.113635.100.6.1.7",
     "1.2.840.113635.100.6.1.4"
 ), issueDate='2023-01-23 09:54:54 +0000''>', entitlements='{
     "application-identifier" = "ABQYBUVRDT.com.dc.Stevie";
     "com.apple.developer.team-identifier" = ABQYBUVRDT;
     "get-task-allow" = 0;
-}', teamID='ABQYBUVRDT', identifier='com.dc.Stevie', executablePath='<DVTFilePath:0x600013dae2e0:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-03-18/Stevie 18-3-2023, 9.16 am.xcarchive/Products/Applications/Stevie.app/Stevie'>', hardenedRuntime='0'>'> to: /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/entitlements~~~vwyWmi
-2023-03-17 22:48:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'E375EE589629F3261AC92D26901DE004DAA4A2AA' '--entitlements' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/entitlements~~~vwyWmi' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app'
-2023-03-17 22:48:23 +0000  /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app: replacing existing signature
-2023-03-17 22:48:23 +0000  /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app: signed app bundle with Mach-O thin (arm64) [com.dc.Stevie]
-2023-03-17 22:48:23 +0000  /usr/bin/codesign exited with 0
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionZipODRItemStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCreateIPAStep
-2023-03-17 22:48:23 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Packages/Stevie.ipa'
-2023-03-17 22:48:23 +0000  >>> Copying /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root 
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/_CodeSignature/CodeResources ... 
-2023-03-17 22:48:23 +0000  9301 bytes for ./Payload/Stevie.app/_CodeSignature/CodeResources
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Stevie ... 
-2023-03-17 22:48:23 +0000  1511584 bytes for ./Payload/Stevie.app/Stevie
+}', teamID='ABQYBUVRDT', identifier='com.dc.Stevie', executablePath='<DVTFilePath:0x600141fd1fe0:'/Users/danielcappello/Library/Developer/Xcode/Archives/2023-04-07/Stevie 7-4-2023, 5.38 pm.xcarchive/Products/Applications/Stevie.app/Stevie'>', hardenedRuntime='0'>'> to: /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/entitlements~~~8SNsur
+2023-04-07 08:09:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'E375EE589629F3261AC92D26901DE004DAA4A2AA' '--entitlements' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/entitlements~~~8SNsur' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app'
+2023-04-07 08:09:04 +0000  /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app: replacing existing signature
+2023-04-07 08:09:04 +0000  /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app: signed app bundle with Mach-O thin (arm64) [com.dc.Stevie]
+2023-04-07 08:09:04 +0000  /usr/bin/codesign exited with 0
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-04-07 08:09:04 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root' '/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Packages/Stevie.ipa'
+2023-04-07 08:09:04 +0000  >>> Copying /var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root 
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/_CodeSignature/CodeResources ... 
+2023-04-07 08:09:04 +0000  9301 bytes for ./Payload/Stevie.app/_CodeSignature/CodeResources
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Stevie ... 
+2023-04-07 08:09:04 +0000  1511584 bytes for ./Payload/Stevie.app/Stevie
 copying file ./Payload/Stevie.app/AppIcon60x60@2x.png ... 
-2023-03-17 22:48:23 +0000  15756 bytes for ./Payload/Stevie.app/AppIcon60x60@2x.png
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  1598 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  1598 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  3450 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  3450 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  975 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib ... 
-975 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  6119 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  6119 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  1201 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  1201 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  8220 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  8220 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  1087 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  1087 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib ... 
-2023-03-17 22:48:23 +0000  25800 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib
+2023-04-07 08:09:04 +0000  15756 bytes for ./Payload/Stevie.app/AppIcon60x60@2x.png
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  1598 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/runtime.nib
+copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  1598 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-WsS-vA-AAH.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  3450 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/runtime.nib
+copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  3450 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/8NE-0b-GyK-view-0Jy-kR-MGq.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  975 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/runtime.nib
+copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  975 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-Vyh-3R-yIF.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  6119 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/runtime.nib
+copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  6119 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/L81-RM-KPc-view-wlV-Gj-7i4.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  1201 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/runtime.nib
+copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  1201 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UIViewController-L81-RM-KPc.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  8220 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  8220 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Vyh-3R-yIF-view-gEw-Wk-wsO.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  1087 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/runtime.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib ... 
+2023-04-07 08:09:04 +0000  1087 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/UITableViewController-8NE-0b-GyK.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib ... 
+2023-04-07 08:09:04 +0000  25800 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/runtime.nib
 copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib ... 
-2023-03-17 22:48:23 +0000  25722 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib
+2023-04-07 08:09:04 +0000  25722 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/WsS-vA-AAH-view-nD6-lw-fMh.nib/objects-14.0+.nib
 copying file ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Info.plist ... 
-2023-03-17 22:48:23 +0000  475 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Info.plist
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
-2023-03-17 22:48:23 +0000  1941 bytes for ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
-2023-03-17 22:48:23 +0000  896 bytes for ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
-2023-03-17 22:48:23 +0000  copying file ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
-2023-03-17 22:48:23 +0000  258 bytes for ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
-copying file ./Payload/Stevie.app/Assets.car ... 
-2023-03-17 22:48:23 +0000  831823 bytes for ./Payload/Stevie.app/Assets.car
+2023-04-07 08:09:04 +0000  475 bytes for ./Payload/Stevie.app/Base.lproj/Main.storyboardc/Info.plist
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-04-07 08:09:04 +0000  1941 bytes for ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-04-07 08:09:04 +0000  896 bytes for ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-04-07 08:09:04 +0000  258 bytes for ./Payload/Stevie.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Assets.car ... 
+2023-04-07 08:09:04 +0000  831823 bytes for ./Payload/Stevie.app/Assets.car
 copying file ./Payload/Stevie.app/AppIcon76x76@2x~ipad.png ... 
-2023-03-17 22:48:23 +0000  22344 bytes for ./Payload/Stevie.app/AppIcon76x76@2x~ipad.png
+2023-04-07 08:09:04 +0000  22344 bytes for ./Payload/Stevie.app/AppIcon76x76@2x~ipad.png
 copying file ./Payload/Stevie.app/embedded.mobileprovision ... 
-2023-03-17 22:48:23 +0000  12317 bytes for ./Payload/Stevie.app/embedded.mobileprovision
-copying file ./Payload/Stevie.app/Info.plist ... 
-2023-03-17 22:48:23 +0000  1632 bytes for ./Payload/Stevie.app/Info.plist
+2023-04-07 08:09:04 +0000  12317 bytes for ./Payload/Stevie.app/embedded.mobileprovision
+2023-04-07 08:09:04 +0000  copying file ./Payload/Stevie.app/Info.plist ... 
+2023-04-07 08:09:04 +0000  1632 bytes for ./Payload/Stevie.app/Info.plist
 copying file ./Payload/Stevie.app/PkgInfo ... 
-8 bytes for ./Payload/Stevie.app/PkgInfo
-2023-03-17 22:48:23 +0000  /usr/bin/ditto exited with 0
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionAppStoreInformationStep
-2023-03-17 22:48:23 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
-2023-03-17 22:48:23 +0000  IDEDistributionItem init <DVTFilePath:0x60000b09a1b0:'/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/com.apple.appstoreagent/XcodeDistPipeline.~~~tgTu0S/Root/Payload/Stevie.app'>
-2023-03-17 22:48:23 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-04-07 08:09:04 +0000  8 bytes for ./Payload/Stevie.app/PkgInfo
+2023-04-07 08:09:04 +0000  /usr/bin/ditto exited with 0
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-04-07 08:09:04 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-04-07 08:09:04 +0000  IDEDistributionItem init <DVTFilePath:0x60000d228f50:'/var/folders/zd/9x_17gd91052fbz8t8yf1bdc0000gn/T/XcodeDistPipeline.~~~N7ce1Y/Root/Payload/Stevie.app'>
+2023-04-07 08:09:04 +0000  Processing step: IDEDistributionCreateManifestStep
